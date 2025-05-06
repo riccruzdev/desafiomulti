@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/riccruzdev/goexpert/DesafioMultithreading/Internal/models"
 	"os"
 	"time"
+
+	"github.com/riccruzdev/desafiomulti/internal/models"
 )
 
 func main() {
