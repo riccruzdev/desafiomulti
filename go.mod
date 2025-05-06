@@ -1,3 +1,3 @@
-module github.com/riccruzdev/goexpert/DesafioMultithreading
+module github.com/riccruzdev/desafiomulti
 
 go 1.21

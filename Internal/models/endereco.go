@@ -2,8 +2,9 @@ package models
 
 import (
 	"encoding/json"
-	"github.com/riccruzdev/goexpert/DesafioMultithreading/Internal/dto"
 	"net/http"
+
+	"github.com/riccruzdev/desafiomulti/internal/dto"
 )
 
 type Endereco struct {
