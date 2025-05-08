@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/riccruzdev/desafiomulti/internal/dto"
+	"desafiomulti/internal/dto"
 )
 
 type Endereco struct {

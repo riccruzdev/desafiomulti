@@ -1,3 +1,3 @@
-module github.com/riccruzdev/desafiomulti
+module desafiomulti
 
 go 1.21

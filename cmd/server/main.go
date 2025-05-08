@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/riccruzdev/desafiomulti/internal/models"
+	"desafiomulti/internal/models"
 )
 
 func main() {
