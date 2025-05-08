@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
+	// Using local module path instead of GitHub URL
 	"desafiomulti/internal/dto"
 )
 
