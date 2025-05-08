@@ -5,6 +5,7 @@ import (
 	"os"
 	"time"
 
+	// Using local module path instead of GitHub URL
 	"desafiomulti/internal/models"
 )
 
