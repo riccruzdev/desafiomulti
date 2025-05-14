@@ -6,7 +6,7 @@ import (
 	"time"
 
 	// Using local module path instead of GitHub URL
-	"desafiomulti/internal/models"
+	"github.com/riccruzdev/desafiomulti/internal/models"
 )
 
 func main() {

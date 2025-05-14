@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	// Using local module path instead of GitHub URL
-	"desafiomulti/internal/dto"
+	"github.com/riccruzdev/desafiomulti/internal/dto"
 )
 
 type Endereco struct {

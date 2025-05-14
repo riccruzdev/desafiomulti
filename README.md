@@ -1,7 +1,7 @@
 # Desafio Multithreading
 
 ## Module Path Update
-The module path has been updated from `github.com/riccruzdev/desafiomulti` to `desafiomulti` to make it easier for users to clone and run the project without import path issues.
+The module path has been updated from `github.com/riccruzdev/desafiomulti` again.
 
 # instructions to test it
 Por favor rode cmd/server/main.go CEP(arg of the cep para testar no formato 99999999 -  este argumento não é obrigatório, se não passar nada, ele irá buscar o cep 01153000)
